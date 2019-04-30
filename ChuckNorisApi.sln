@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuckNorisApi", "ChuckNorisApi\ChuckNorisApi.csproj", "{08E3387B-E068-42AA-A37E-E29BA6AFFB0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary1\ClassLibrary.csproj", "{926C5A8B-E6FA-42A8-B75C-3A9C9A21B36C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{08E3387B-E068-42AA-A37E-E29BA6AFFB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08E3387B-E068-42AA-A37E-E29BA6AFFB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08E3387B-E068-42AA-A37E-E29BA6AFFB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{926C5A8B-E6FA-42A8-B75C-3A9C9A21B36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926C5A8B-E6FA-42A8-B75C-3A9C9A21B36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926C5A8B-E6FA-42A8-B75C-3A9C9A21B36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926C5A8B-E6FA-42A8-B75C-3A9C9A21B36C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
